@@ -44,4 +44,4 @@ next-env.d.ts
 /.clerk/
 
 /lib/private.key
-/lib/generated/prisma
+
